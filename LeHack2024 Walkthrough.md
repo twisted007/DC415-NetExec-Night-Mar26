@@ -1,5 +1,5 @@
 - We start by checking smb for null and guest access to any shares
-	- ![Attachments/Pasted image 20260225141001.png]
+	- ![](Attachments/Pasted image 20260225141001.png)
 - Next we use the spider_plus module from NetExec and find a file we can read.z
 	- ![[Pasted image 20260225141153.png]]
 - We can pull down the file with netexec as well :) 
